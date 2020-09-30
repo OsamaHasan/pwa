@@ -17,7 +17,8 @@
         "/manifest.webmanifest",
         "/polyfills.35a5ca1855eb057f016a.js",
         "/runtime.acf0dec4155e77772545.js",
-        "/styles.3ff695c00d717f2d2a11.css"
+        "/styles.3ff695c00d717f2d2a11.css",
+        "/ngsw.json"
       ],
       "patterns": []
     },
